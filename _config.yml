@@ -7,3 +7,4 @@ lsi: false
 ### content configuration ###
 theme: jekyll-theme-minimal
 title: ViewModel Composition
+logo: assets/ServiceComposer.png
