@@ -17,3 +17,7 @@ This type of questions lead systems to be designed using rich events, and not th
 This is the beginning of a road that can only lead to a distributed monolith, where data ownership is a lost concept and every change impacts and breaks the whole system. In such a scenario it’s very easy to blame SOA and the tool set.
 
 ViewModel Composition techniques are designed to address all these concerns. ViewModel Composition brings the separation of concerns, desinged at the back-end, to the front-end.
+
+## Icon
+
+[API](‪https://thenounproject.com/term/api/883169‬) by [Guilherme Simoes](https://thenounproject.com/uberux/) from [the Noun Project](https://thenounproject.com/).
